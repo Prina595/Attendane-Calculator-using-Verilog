@@ -4,7 +4,7 @@ Attendance Management System
 Project Overview
 The Attendance Management System is a project that processes and manages student attendance using Verilog hardware logic and a Python GUI interface. The system reads attendance data from memory files, processes it using a Verilog module, and displays or manages the results through a user-friendly interface. This project demonstrates the integration of Hardware Description Language (HDL) with software tools to simulate an attendance tracking system.
 
-Features
+Features:
 
 Upload and read attendance data from Excel files
 
