@@ -31,7 +31,7 @@ Attendance processor module
 
 Hardware logic simulation
 
-Tools
+Tools:
 
 Icarus Verilog (for simulation)
 
